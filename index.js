@@ -1,6 +1,6 @@
 
-// Multiple quizes.
-// Each quis has a set of questions.
+// Multiple questions.
+// Each quiz has a set of questions.
 // Each question, has a set of answers.
 
 class Answer

@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(203, 203, 203);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.logo {
+    font-size: 150%;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    display: flex row;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+
+}
